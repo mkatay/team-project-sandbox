@@ -2,9 +2,9 @@ import React from 'react'
 
 export const Banner = () => {
   return (
-    <div>
-      default Banner
-    </div>
+    <div className="banner">
+    <h1>Pizza rendelés gyorsan, kényelmesen</h1>
+  </div>
   )
 }
 

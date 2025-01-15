@@ -6,7 +6,6 @@ import { Products } from './components/Products';
 const queryClient = new QueryClient();
 
 function App() {
- 
   return (
     <QueryClientProvider client={queryClient}>
       <Banner />
